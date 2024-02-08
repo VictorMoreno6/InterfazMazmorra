@@ -1,0 +1,23 @@
+
+£
+java:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ú¶Á„ÿÿÿÿÿ8°áèí×1
+£
+java:S1186*"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(„Åúêûÿÿÿÿ8°áèí×1
+
+java:S1186-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ùñîÒ8°áèí×1
+
+java:S11860"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(é°Ã8±áèí×1
+£
+java:S11863"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğ¤¶ıÿÿÿÿ8±áèí×1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ñˆ¥°ıÿÿÿÿ8³áèí×1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÜğÉ…øÿÿÿÿ8´áèí×1
+N
+java:S1172#"2Remove this unused method parameter "actionEvent".(‘ÛË&8ÀÍíí×1
+O
+java:S1128"-Remove this unused import 'javafx.fxml.FXML'.(ÃÚ¢„şÿÿÿÿ8ï²‹ÿ×1
+R
+java:S1128"5Remove this unused import 'javafx.scene.image.Image'.(‰¿½Ç8ğ²‹ÿ×1
+[
+java:S1128"9Remove this unused import 'javafx.scene.image.ImageView'.(áÿ®Ãüÿÿÿÿ8ö²‹ÿ×1
+U
+java:S1128"3Remove this unused import 'java.util.RandomAccess'.(çºÜúÿÿÿÿ8ö²‹ÿ×1
